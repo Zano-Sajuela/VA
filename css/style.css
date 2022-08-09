@@ -683,11 +683,11 @@ Desktop/Documents/backendemployers */
     left: 120px;
 }
 .boldrecent{
-    font-weight: 500; 
+    font-weight: 900; 
     font-style: 1rem;
 }
 .topteam{
-    position: relative;
+    font-weight: 500; 
     color: #fcc603;
 }
 @media(max-width: 330px){
