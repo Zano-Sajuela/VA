@@ -686,6 +686,9 @@ Desktop/Documents/backendemployers */
     font-weight: 500; 
     font-style: 1rem;
 }
+.topteam{
+    color: #fcc603;
+}
 @media(max-width: 330px){
     #station{
             width:230px;
