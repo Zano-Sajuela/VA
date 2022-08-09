@@ -682,6 +682,9 @@ Desktop/Documents/backendemployers */
     height:250px;
     left: 120px;
 }
+.boldrecent{
+    font-weight: 400; 
+}
 @media(max-width: 330px){
     #station{
             width:230px;
